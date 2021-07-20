@@ -19,6 +19,16 @@ Python becomes the best solution in many domains from web applications, data ana
  Read More : https://dev.to/grayhat/python-101-introduction-to-python-3kg5 
 
 
+Boot Camp Classe Recording’s :
+
+---
+Introduction : https://youtu.be/DGc-4_zxyXo
+
+Class Slides: https://docs.google.com/presentation/d/1cOabved-UNNl-LWO9VBEHZ15cMMoI_OVApdr_I52M6M/edit?usp=sharing
+
+---
+
+
 References:
 
 1). https://users.astro.ufl.edu/~warner/prog/python.html 
