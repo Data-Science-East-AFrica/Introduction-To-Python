@@ -16,4 +16,13 @@ End-of-line semicolons (;) are optional and usually not used in Python.
 Python becomes the best solution in many domains from web applications, data analysis, data science, machine learning, and AI. 
  
  
- Full Resources : https://dev.to/grayhat/python-101-introduction-to-python-3kg5 
+ Read More : https://dev.to/grayhat/python-101-introduction-to-python-3kg5 
+
+
+References:
+
+1). https://users.astro.ufl.edu/~warner/prog/python.html 
+
+2). https://www.pythontutorial.net/ 
+
+
