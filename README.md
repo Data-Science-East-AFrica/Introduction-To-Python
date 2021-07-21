@@ -28,6 +28,18 @@ Class Slides: https://docs.google.com/presentation/d/1cOabved-UNNl-LWO9VBEHZ15cM
 
 ---
 
+---
+First Class: Week 1, Day 1.
+
+Class Recording on You Tube : https://youtu.be/T7cxxEgQ0iQ 
+
+
+Slides Used in the class: https://docs.google.com/presentation/d/1a_6mzDe9nxWL2rAvtwuU7Z83kZ4BYS3tr86muAwFJuo/edit?usp=sharing 
+
+
+Code Snippets on Google Colabs : https://colab.research.google.com/drive/1fBpZAssDbA3r6lq44Psy6DzcmaSLQe5w?usp=sharing
+
+----
 
 References:
 
