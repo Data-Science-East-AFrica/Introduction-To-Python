@@ -39,15 +39,32 @@ Slides Used in the class: https://docs.google.com/presentation/d/1a_6mzDe9nxWL2r
 
 Code Snippets on Google Colabs : https://colab.research.google.com/drive/1fBpZAssDbA3r6lq44Psy6DzcmaSLQe5w?usp=sharing
 
-----
+---
+First Class: Week 1, Day 2.
+
+Class Recording on You Tube : https://youtu.be/fArRNOvCwaI
 
 
+References Used in the class: https://dev.to/grayhat/python-102-introduction-to-python-intermediate-concepts-1881
 
 ---
 
 **Week 1 Project and Assessment  Submission  Forms:** https://forms.gle/SJFFhEwqUPoW8myj7
 
+--- 
+
+
 ---
+First Class: Week 2, Day 1.
+
+Class Recording on You Tube : https://youtu.be/0331iclOw-U
+
+
+References used in the class:  https://dev.to/grayhat/introduction-to-data-structures-and-algorithms-with-python-4ih1
+
+----
+
+
 
 References:
 
