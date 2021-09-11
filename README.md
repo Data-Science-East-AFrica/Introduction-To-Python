@@ -13,7 +13,7 @@
 
 ### Table of Contents:
 - [Introduction](#introduction)
-- [Boot Camp Class Recording’s](#boot-camp-class-recording’s)
+- [Boot Camp Class Recordings](#boot-camp-class-recordings)
   - [Introduction](#introduction-1)
 - [Classes](#classes)
 - Week 1, Day 1
@@ -38,7 +38,7 @@ Python becomes the best solution in many domains from web applications, data ana
  
 Read more about Python 101 [here at our Dev.to blog](https://dev.to/grayhat/python-101-introduction-to-python-3kg5)
 
-### Boot Camp Class Recording’s
+### Boot Camp Class Recordings
 
 #### Introduction
 - Watch our Introduction [here on Youtube](https://youtu.be/DGc-4_zxyXo).Kindly comment if you have any queries, and like if you enjoy it.
@@ -76,5 +76,6 @@ Week 2 day 1 resources can as well be viewed [at this blog](https://dev.to/grayh
 
 ### References:
 
-1). https://users.astro.ufl.edu/~warner/prog/python.html <br>
-2). [Python Tutorial](https://www.pythontutorial.net/) <br>
+1). [Python Tutorial](https://www.pythontutorial.net/) <br>
+2). https://users.astro.ufl.edu/~warner/prog/python.html <br>
+
