@@ -14,13 +14,13 @@
 ### Table of Contents:
 - [Introduction](#introduction)
 - [Boot Camp Class Recording’s](#boot-camp-class-recording’s)
-  - [Introduction](#introduction)
-- [Week 1, Day 1](#week-1,-day-1)
+  - [Introduction](#introduction-1)
+- [Week 1, Day 1](#week-1-,-day-1)
 - [Week 1, Day 2](#week-1,-day-2)
-  - [References](-references)
+  - [References](#references)
 - [Week 1, Day 2](#week-1,-day-2)
 - [Week 2, Day 1](#week-2,-day-1)
-  - [References](-references-1)
+  - [References](#references-1)
 - [References](#references)
 
 ![image](https://user-images.githubusercontent.com/51136314/126344425-54f7126e-6ec1-4c0e-9a3e-f3c2f34fc8e1.png) 
@@ -61,8 +61,7 @@ Week One Code Snippets are also freely available [here](https://colab.research.g
  If you find the video useful, as always, you can share along with your peers.Success!
 
 #### References
-Week 1 day 2 resources can be viewed [here at grayhat](https://dev.to/grayhat/python-102-introduction-to-python-intermediate-concepts-1881)
----
+Week 1 day 2 resources can be viewed [at this blog](https://dev.to/grayhat/python-102-introduction-to-python-intermediate-concepts-1881)
 
 #### Week 1 Project and Assessment Submission Forms.
 - Upon completion of your Week One Project, kindly submit via [this form](https://forms.gle/SJFFhEwqUPoW8myj7)
@@ -74,7 +73,7 @@ Week 1 day 2 resources can be viewed [here at grayhat](https://dev.to/grayhat/py
  If you find the video useful, as always, you can share along with your peers.Success!
 
 #### References
-Week 2 day 1 resources can as well be viewed [here at grayhat](https://dev.to/grayhat/introduction-to-data-structures-and-algorithms-with-python-4ih1)
+Week 2 day 1 resources can as well be viewed [at this blog](https://dev.to/grayhat/introduction-to-data-structures-and-algorithms-with-python-4ih1)
 
 ----
 
