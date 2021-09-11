@@ -13,9 +13,15 @@
 
 ### Table of Contents:
 - [Introduction](#introduction)
-- [Web Application Project](#web-application-project)
-- [Data Science Project](#data-science-project)
-  - [Objective](#objective)
+- [Boot Camp Class Recording’s](#boot-camp-class-recording’s)
+  - [Introduction](#introduction)
+- [Week 1, Day 1](#week-1,-day-1)
+- [Week 1, Day 2](#week-1,-day-2)
+  - [References](-references)
+- [Week 1, Day 2](#week-1,-day-2)
+- [Week 2, Day 1](#week-2,-day-1)
+  - [References](-references-1)
+- [References](#references)
 
 ![image](https://user-images.githubusercontent.com/51136314/126344425-54f7126e-6ec1-4c0e-9a3e-f3c2f34fc8e1.png) 
 
@@ -30,19 +36,18 @@ End-of-line semicolons (;) are optional and usually not used in Python.
 
 Python becomes the best solution in many domains from web applications, data analysis, data science, machine learning, and AI. 
  
-Read More about Python 101 here at our [Dev.to blog](https://dev.to/grayhat/python-101-introduction-to-python-3kg5)
+Read more about Python 101 [here at our Dev.to blog](https://dev.to/grayhat/python-101-introduction-to-python-3kg5)
 
-### Boot Camp Classe Recording’s
+### Boot Camp Class Recording’s
 
----
 #### Introduction
-- Watch our Introduction here on [Youtube](https://youtu.be/DGc-4_zxyXo).Kindly comment if you have any queries, and like if you enjoy it.
+- Watch our Introduction [here on Youtube](https://youtu.be/DGc-4_zxyXo).Kindly comment if you have any queries, and like if you enjoy it.
  If you find the video useful, as always, you can share along with your peers.Success!
 - You can also read the Introductory [Class Slides here](https://docs.google.com/presentation/d/1cOabved-UNNl-LWO9VBEHZ15cMMoI_OVApdr_I52M6M/edit?usp=sharing)
 
 ---
-### First Class: 
-Week 1, Day 1.
+### First Class 
+### Week 1, Day 1
 
 - Watch our Week One Lesson recorded here on [Youtube](https://youtu.be/T7cxxEgQ0iQ).Kindly comment if you have any queries, and like if you enjoy it.
  If you find the video useful, as always, you can share along with your peers.Success!
@@ -51,31 +56,29 @@ Week 1, Day 1.
 Week One Code Snippets are also freely available [here](https://colab.research.google.com/drive/1fBpZAssDbA3r6lq44Psy6DzcmaSLQe5w?usp=sharing)on Google Colab.
 
 ---
-First Class: Week 1, Day 2.
+### Week 1, Day 2
+- Watch our Week One Lesson recorded here on [Youtube](https://youtu.be/fArRNOvCwaI).Kindly comment if you have any queries, and like if you enjoy it.
+ If you find the video useful, as always, you can share along with your peers.Success!
 
-Class Recording on You Tube : https://youtu.be/fArRNOvCwaI
-
-
-References Used in the class: https://dev.to/grayhat/python-102-introduction-to-python-intermediate-concepts-1881
-
+#### References
+Week 1 day 2 resources can be viewed [here at grayhat](https://dev.to/grayhat/python-102-introduction-to-python-intermediate-concepts-1881)
 ---
 
-**Week 1 Project and Assessment  Submission  Forms:** https://forms.gle/SJFFhEwqUPoW8myj7
-
---- 
-
+#### Week 1 Project and Assessment Submission Forms.
+- Upon completion of your Week One Project, kindly submit via [this form](https://forms.gle/SJFFhEwqUPoW8myj7)
 
 ---
-First Class: Week 2, Day 1.
+### Week 2, Day 1
 
-Class Recording on You Tube : https://youtu.be/0331iclOw-U
+- Watch our Week two Lesson one recorded here on [Youtube](https://youtu.be/0331iclOw-U).Kindly comment if you have any queries, and like if you enjoy it.
+ If you find the video useful, as always, you can share along with your peers.Success!
 
-
-References used in the class:  https://dev.to/grayhat/introduction-to-data-structures-and-algorithms-with-python-4ih1
+#### References
+Week 2 day 1 resources can as well be viewed [here at grayhat](https://dev.to/grayhat/introduction-to-data-structures-and-algorithms-with-python-4ih1)
 
 ----
 
 ### References:
 
-1). https://users.astro.ufl.edu/~warner/prog/python.html 
-2). https://www.pythontutorial.net/ 
+1). https://users.astro.ufl.edu/~warner/prog/python.html <br>
+2). https://www.pythontutorial.net/ <br>
