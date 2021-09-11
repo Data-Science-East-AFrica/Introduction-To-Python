@@ -16,7 +16,7 @@
 - [Boot Camp Class Recording’s](#boot-camp-class-recording’s)
   - [Introduction](#introduction-1)
 - [Classes](#classes)
-- Week 1, Day 2
+- Week 1, Day 1
   - [References](#references)
 - Week 1, Day 2
 - Week 2, Day 1
@@ -45,7 +45,6 @@ Read more about Python 101 [here at our Dev.to blog](https://dev.to/grayhat/pyth
  If you find the video useful, as always, you can share along with your peers.Success!
 - You can also read the Introductory [Class Slides here](https://docs.google.com/presentation/d/1cOabved-UNNl-LWO9VBEHZ15cMMoI_OVApdr_I52M6M/edit?usp=sharing)
 
----
 ### Classes
 ### Week 1, Day 1
 
@@ -78,4 +77,4 @@ Week 2 day 1 resources can as well be viewed [at this blog](https://dev.to/grayh
 ### References:
 
 1). https://users.astro.ufl.edu/~warner/prog/python.html <br>
-2). https://www.pythontutorial.net/ <br>
+2). [Python Tutorial](https://www.pythontutorial.net/) <br>
