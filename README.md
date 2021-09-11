@@ -15,11 +15,11 @@
 - [Introduction](#introduction)
 - [Boot Camp Class Recording’s](#boot-camp-class-recording’s)
   - [Introduction](#introduction-1)
-- [Week 1, Day 1](#week-1-,-day-1)
-- [Week 1, Day 2](#week-1,-day-2)
+- [Classes](#classes)
+- Week 1, Day 2
   - [References](#references)
-- [Week 1, Day 2](#week-1,-day-2)
-- [Week 2, Day 1](#week-2,-day-1)
+- Week 1, Day 2
+- Week 2, Day 1
   - [References](#references-1)
 - [References](#references)
 
@@ -46,7 +46,7 @@ Read more about Python 101 [here at our Dev.to blog](https://dev.to/grayhat/pyth
 - You can also read the Introductory [Class Slides here](https://docs.google.com/presentation/d/1cOabved-UNNl-LWO9VBEHZ15cMMoI_OVApdr_I52M6M/edit?usp=sharing)
 
 ---
-### First Class 
+### Classes
 ### Week 1, Day 1
 
 - Watch our Week One Lesson recorded here on [Youtube](https://youtu.be/T7cxxEgQ0iQ).Kindly comment if you have any queries, and like if you enjoy it.
@@ -55,7 +55,6 @@ Read more about Python 101 [here at our Dev.to blog](https://dev.to/grayhat/pyth
 
 Week One Code Snippets are also freely available [here](https://colab.research.google.com/drive/1fBpZAssDbA3r6lq44Psy6DzcmaSLQe5w?usp=sharing)on Google Colab.
 
----
 ### Week 1, Day 2
 - Watch our Week One Lesson recorded here on [Youtube](https://youtu.be/fArRNOvCwaI).Kindly comment if you have any queries, and like if you enjoy it.
  If you find the video useful, as always, you can share along with your peers.Success!
@@ -66,7 +65,6 @@ Week 1 day 2 resources can be viewed [at this blog](https://dev.to/grayhat/pytho
 #### Week 1 Project and Assessment Submission Forms.
 - Upon completion of your Week One Project, kindly submit via [this form](https://forms.gle/SJFFhEwqUPoW8myj7)
 
----
 ### Week 2, Day 1
 
 - Watch our Week two Lesson one recorded here on [Youtube](https://youtu.be/0331iclOw-U).Kindly comment if you have any queries, and like if you enjoy it.
